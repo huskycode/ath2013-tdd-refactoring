@@ -13,5 +13,10 @@ Ecipse
     (osx/unix) ./gradlew eclipse
  
     2. Then Open eclipse -> Import project
+    
+Refactoring
+-----------
+
+For description, please see: https://github.com/huskycode/foresee/wiki/Refactoring-%28th%29
 
 
